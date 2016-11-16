@@ -1,6 +1,6 @@
-�ɮ׸��|�L�k�]�t����r��
-�ഫ���@���ᥲ�����ҵ{��
+﻿檔案路徑無法包含中文字元
+轉換完一次後必須重啟程式
 
-�Ϥ��B�z�覡��OpenCV���G�Ȥƥ[�W�ҽk
-�G�Ȥƪ�Th��145
-�ҽk�h�O�ϥ�medianBlur��k
+圖片處理方式為OpenCV的二值化加上模糊
+二值化的Th為145
+模糊則是使用medianBlur方法
